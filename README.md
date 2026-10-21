@@ -4,6 +4,8 @@
 
 Live plate: https://mizcausevic-dev.github.io/delta-pick-and-place-robot-explainer/
 
+Repository: https://github.com/mizcausevic-dev/delta-pick-and-place-robot-explainer
+
 ## What this is
 
 An interactive anatomy plate for Delta Pick-and-Place Robot. Play, scrub, or jump the five stages. The same frame always draws the same picture.
